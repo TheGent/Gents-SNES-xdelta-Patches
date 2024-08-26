@@ -691,6 +691,24 @@ BLAKE2sp: e7fd39d5ce6a00030c46320306fc701c7a01ecb188038541c9199aa22f6702bc
 
 // This takes to original (U) region game and creates: International Superstar Soccer Deluxe (W) [USA].smc
 
+## Jim Power - The Lost Dimension in 3D (U) [!]
+
+Name: Jim Power - The Lost Dimension in 3D (U) [!].smc
+
+Size: 1048576 bytes (1024 KiB)
+
+CRC32: C469F8F0
+
+CRC64: CDEC314C483A5E33
+
+SHA256: 6f0bec87ece503b0fbe108cd159ed6f5fa7711b1c4fe31e982af41ad5c638093
+
+SHA1: 45fbf4429b8b4a806af31503a0cf968cffba3af1
+
+BLAKE2sp: 52b658da01b450c90cea042dc1e2fdaf93199a54bc8eaba74dd27a5c4c72f479
+
+// This takes to original (U) region game and creates: Jim Power - The Lost Dimension in 3D (W) [USA].smc
+
 ## Joe & Mac 2 - Lost in the Tropics (U)
 
 Name: Joe & Mac 2 - Lost in the Tropics (U).smc
