@@ -889,6 +889,24 @@ BLAKE2sp: 1fb632f5a21d940c846ca282be67fc57d8537dac5c950b79a72591bb06d8b69a
 
 // This takes to original (U) region game and creates: Mega Man X (W) (V1.0) [USA].smc
 
+## Mega Man X (U) (V1.1) [!]
+
+Name: Mega Man X (U) (V1.1) [!].smc
+
+Size: 1572864 bytes (1536 KiB)
+
+CRC32: DED53C64
+
+CRC64: 96B08908658A44DB
+
+SHA256: b8f70a6e7fb93819f79693578887e2c11e196bdf1ac6ddc7cb924b1ad0be2d32
+
+SHA1: c65216760ba99178100a10d98457cf11496c2097
+
+BLAKE2sp: 238c0748e9eab8a0969a711421e93f46867b539431a7e92eceef4e5868b9e887
+
+// This takes to original (U) region game and creates: Mega Man X (W) (V1.1) [USA].smc
+
 ## Mega Man X 2 (U) [!]
 
 Name: Mega Man X 2 (U) [!].smc
