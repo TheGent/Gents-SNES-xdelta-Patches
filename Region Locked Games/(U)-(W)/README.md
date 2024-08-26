@@ -61,6 +61,24 @@ BLAKE2sp: 37d17d0ab86e4166857de0987bc748504679a764b50a78268a179272ad34d129
 
 // This takes to original (U) region game and creates: Adventures of Dr. Franken, The (W) [USA].smc
 
+## Adventures of Kid Kleets, The (U) [!]
+
+Name: Adventures of Kid Kleets, The (U) [!].smc
+
+Size: 1310720 bytes (1280 KiB)
+
+CRC32: 1664AE48
+
+CRC64: 0E0DEFBFE821B555
+
+SHA256: 670d898bdcf97d7ca3aab6c2dd1641f1270fcc2a070bbd3028ab413aef2b2ecc
+
+SHA1: ab1bc78dc622e746262f6cf7b4d248449fbc9509
+
+BLAKE2sp: eb1b8a9059ba4f4738abea3f682f5c05d859e6fa887c81489d088eb09f369bb0
+
+// This takes to original (U) region game and creates: Adventures of Kid Kleets, The (W) [USA].smc
+
 ## Animaniacs (U) [!]
 
 Name: Animaniacs (U) [!].smc
