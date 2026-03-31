@@ -1,8 +1,8 @@
 # (JU) [Japan/USA] to (W) [World] - Region Free Games
 
-Here are Patches for use with [xdelta](http://xdelta.org/) command-line tool and for ease of use [xdeltaUI](https://www.romhacking.net/utilities/598/) The Windows FrontEnd.
+Here are Patches for use with [Delta Patcher](https://github.com/marco-calautti/DeltaPatcher/releases/) xdeleta tool.
 
-Make sure your Games are the correct name and file type before patching!
+Make sure your Games are the correct name and file type before patching! And remember to enable Backup original file so it creates Game name - CopyPATCHED.smc
 
 The following patches are World (W) "Universal" (Region-Free) and compatible with "All Region Consoles"
 
